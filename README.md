@@ -43,7 +43,8 @@ I ensured that the codebase is well-commented, with clear variable and function 
 The following artifacts best showcase my work in this project:
 
 1. **Task Scheduler Flowchart:** Visualizes the operation of the task scheduler in the smart thermostat project.
-   
-  ![Flowchart](https://github.com/user-attachments/assets/503014de-9c9e-4466-831a-820e8049d94c)
+<div align="center">   
+  <img src="https://github.com/user-attachments/assets/503014de-9c9e-4466-831a-820e8049d94c" alt="Flowchart">
+</div>
 
 3. **[Smart Thermostat Report](Smart%20Thermostat%20Report%20-%20Joseph%20Dengler.docx):** Provides a detailed explanation of the project's design, implementation, and hardware analysis.
